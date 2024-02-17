@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ocrhackanova",
+  "private_key_id": "fb80f40474e1977ed8bc49234d377caead1c4520",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDvMdUaTWDdaoxo\nDbendJNU6FlSX0WMjmDWDY+7bfzxvm5miZrsIptorh3yadSphX10a+jnoEkjklhf\nXn9joixzWGOwpcHrzDanhtFw8pFGkY79K4god0ZSYDQKaTSJaGhm9cjTzO1yFOUq\nW6K4N8QNAHyo1L3IAPngbuOuIWPOH4bPVAfnLVMC7AymtvUhdYSkTWBU1pf//9Vn\nXy8lfL7HV4p+wQbylJTYWCHlJvrCeE7wducgMTFFGkeTaF9OE/llNB7TNjHlu+2g\nHVjhYdYD6Oc2n6o/twzXv/70T9E+15IUaDmarZ21jNZCFU7YEU/t9dEHyQGMIFQE\nj9bq9Y9JAgMBAAECggEACDoAiE0M/dCCT7nZDStXPd5X5BteuvzSm8oPnXSk9HOG\nPISTDXgLPEhwwzucktAChpSHiB/dJBoObAlF/FlBih4KH7MzvjZh0tUyMt5E3NZ4\nwoBSyIGBq6efYpRHuEoc/R2K8K3lpLzPPOu15vwUBBZ2MyBN/qj57xwhPIXtdtNR\nuqK1ajSPHBGajy3CShKakugi98XxUeSCa5mKQF2B41tkrKuEmME955TDDaGlljat\n8n9DSejno3lqu6G+AosIZVZ+fDLKtNKNNt6PLpq4MuY6b/BTyzictpfDyv/Jw+40\nz1XKAIb+9jIqsIBbKlHc1tBMwL4bSqz13nAAN/S6GQKBgQD9/dTu/YnFYdtCMDTj\nbSLCqeE71Xc9opU+9bDKPX9fy1UMO9ccoQppNyyEZe4pCENmVxi8dmu2fw1yguxo\nY37o85NQps8UzN7o2ycVMMgaCEe1PpL+kApCJiF+xrZrAKSU1/q49kDmQA2VlP1U\nNlTAFzG0drErn2hslK2KFIjB7wKBgQDxFgvs9/PQy3ZBoPMGI4azuSYxrr5nyRsM\njPGl4eJPqsVixNKaGlw1/C65KjAMk1VffjMIOuY9oHNBEcsN04WC4uAzZ4ta7Rt7\nLmLWTDXsaNdVKJK4dUA4f5dqSOeuDgvVw4PWsmUNL9xIxxjs7QjA068JI/ZwwNl1\n7ffOF4KaRwKBgQD5Q2v+o4na0R96BI9TBt8PReMKcoNUVMO9hydaQyJHI+iyWePR\nb+YkvgYNZW9mi3qB7EYVZu5sqqHK2Nwj0klRWwIfK6WdFzZINhNUA4zNp4SgRenC\ntB+tLXi/z0plFrtua8veS6YDkacDPrWjOLLR1bFtFvLnCclUjlEFawOPtwKBgQCt\ngn98wguBBx4KJ8sgbOsiaCub8DbrPSqxgrLb/1FAoxhCeINWE4iv9dquuzUvp832\n1z3lO3a/fb3VY/fu8IATbjOL64a5HxL7Oaw6rUjV57KqgHPwO7rHrtSL0wKjG0rb\nQ0ace3IM5pg07M38nrABD5jXDEHubm1T2bvSYMtHOwKBgQD6NeokUnRKjtmH9EKf\n4d4h71/poQ4Nw54VzFO3IXlgaK92Rbv9QOjzA1MQ/MTQcwXQoGnLsZ0p1BbzKHRv\n08X4FVeaUVn7olQRDPy9qsEjojiriqfmvlaiY3MLnSNqh7kUQkAGZKABT8x8A2jK\nxOp2zzIp7a5LNyDzocAXxSC7OQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "hackanovaocr@ocrhackanova.iam.gserviceaccount.com",
+  "client_id": "115556100771408728575",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hackanovaocr%40ocrhackanova.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
